@@ -1,0 +1,10 @@
+# Model weights and checkpoints
+*.pt
+
+# Encoded corpus (regenerate with tokenizer.py)
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

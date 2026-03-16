@@ -2,6 +2,10 @@
     "psalms": {
         "1": [
             {
+                "verse_number": 1,
+                "text": "Happy are those who do not follow the advice of the wicked, or take the path that sinners tread, or sit in the seat of scoffers;"
+            },
+            {
                 "verse_number": 2,
                 "text": "but their delight is in the law of the Lord, and on his law they meditate day and night."
             },
@@ -25,7 +29,7 @@
         "2": [
             {
                 "verse_number": 1,
-                "text": "God’s Promise to His Anointed 1 Why do the nations conspire, and the peoples plot in vain?"
+                "text": "Why do the nations conspire, and the peoples plot in vain?"
             },
             {
                 "verse_number": 2,
@@ -75,7 +79,7 @@
         "3": [
             {
                 "verse_number": 1,
-                "text": "Trust in God under Adversity A Psalm of David, when he fled from his son Absalom. 1 O Lord, how many are my foes! Many are rising against me;"
+                "text": "O Lord, how many are my foes! Many are rising against me;"
             },
             {
                 "verse_number": 2,
@@ -109,7 +113,7 @@
         "4": [
             {
                 "verse_number": 1,
-                "text": "Confident Plea for Deliverance from Enemies To the leader: with stringed instruments. A Psalm of David. 1 Answer me when I call, O God of my right! You gave me room when I was in distress. Be gracious to me, and hear my prayer."
+                "text": "Answer me when I call, O God of my right! You gave me room when I was in distress. Be gracious to me, and hear my prayer."
             },
             {
                 "verse_number": 2,
@@ -143,7 +147,7 @@
         "5": [
             {
                 "verse_number": 1,
-                "text": "Trust in God for Deliverance from Enemies To the leader: for the flutes. A Psalm of David. 1 Give ear to my words, O Lord; give heed to my sighing."
+                "text": "Give ear to my words, O Lord; give heed to my sighing."
             },
             {
                 "verse_number": 2,
@@ -193,7 +197,7 @@
         "6": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Recovery from Grave Illness To the leader: with stringed instruments; according to The Sheminith. A Psalm of David. 1 O Lord, do not rebuke me in your anger, or discipline me in your wrath."
+                "text": "O Lord, do not rebuke me in your anger, or discipline me in your wrath."
             },
             {
                 "verse_number": 2,
@@ -235,7 +239,7 @@
         "7": [
             {
                 "verse_number": 1,
-                "text": "Plea for Help against Persecutors A Shiggaion of David, which he sang to the Lord concerning Cush, a Benjaminite. 1 O Lord my God, in you I take refuge; save me from all my pursuers, and deliver me,"
+                "text": "O Lord my God, in you I take refuge; save me from all my pursuers, and deliver me,"
             },
             {
                 "verse_number": 2,
@@ -305,7 +309,7 @@
         "8": [
             {
                 "verse_number": 1,
-                "text": "Divine Majesty and Human Dignity To the leader: according to The Gittith. A Psalm of David. 1 O Lord, our Sovereign, how majestic is your name in all the earth! You have set your glory above the heavens."
+                "text": "O Lord, our Sovereign, how majestic is your name in all the earth! You have set your glory above the heavens."
             },
             {
                 "verse_number": 2,
@@ -343,7 +347,7 @@
         "9": [
             {
                 "verse_number": 1,
-                "text": "God’s Power and Justice To the leader: according to Muth-labben. A Psalm of David. 1 I will give thanks to the Lord with my whole heart; I will tell of all your wonderful deeds."
+                "text": "I will give thanks to the Lord with my whole heart; I will tell of all your wonderful deeds."
             },
             {
                 "verse_number": 2,
@@ -425,7 +429,7 @@
         "10": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Enemies 1 Why, O Lord, do you stand far off? Why do you hide yourself in times of trouble?"
+                "text": "Why, O Lord, do you stand far off? Why do you hide yourself in times of trouble?"
             },
             {
                 "verse_number": 2,
@@ -499,7 +503,7 @@
         "11": [
             {
                 "verse_number": 1,
-                "text": "Song of Trust in God To the leader. Of David. 1 In the Lord I take refuge; how can you say to me, “Flee like a bird to the mountains;"
+                "text": "In the Lord I take refuge; how can you say to me, “Flee like a bird to the mountains;"
             },
             {
                 "verse_number": 2,
@@ -529,7 +533,7 @@
         "12": [
             {
                 "verse_number": 1,
-                "text": "Plea for Help in Evil Times To the leader: according to The Sheminith. A Psalm of David. 1 Help, O Lord, for there is no longer anyone who is godly; the faithful have disappeared from humankind."
+                "text": "Help, O Lord, for there is no longer anyone who is godly; the faithful have disappeared from humankind."
             },
             {
                 "verse_number": 2,
@@ -563,7 +567,7 @@
         "13": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Enemies To the leader. A Psalm of David. 1 How long, O Lord? Will you forget me forever? How long will you hide your face from me?"
+                "text": "How long, O Lord? Will you forget me forever? How long will you hide your face from me?"
             },
             {
                 "verse_number": 2,
@@ -589,7 +593,7 @@
         "14": [
             {
                 "verse_number": 1,
-                "text": "Denunciation of Godlessness To the leader. Of David. 1 Fools say in their hearts, “There is no God.” They are corrupt, they do abominable deeds; there is no one who does good."
+                "text": "Fools say in their hearts, “There is no God.” They are corrupt, they do abominable deeds; there is no one who does good."
             },
             {
                 "verse_number": 2,
@@ -619,7 +623,7 @@
         "15": [
             {
                 "verse_number": 1,
-                "text": "Who Shall Abide in God’s Sanctuary? A Psalm of David. 1 O Lord, who may abide in your tent? Who may dwell on your holy hill?"
+                "text": "O Lord, who may abide in your tent? Who may dwell on your holy hill?"
             },
             {
                 "verse_number": 2,
@@ -641,7 +645,7 @@
         "16": [
             {
                 "verse_number": 1,
-                "text": "Song of Trust and Security in God A Miktam of David. 1 Protect me, O God, for in you I take refuge."
+                "text": "Protect me, O God, for in you I take refuge."
             },
             {
                 "verse_number": 2,
@@ -687,7 +691,7 @@
         "17": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Persecutors A Prayer of David. 1 Hear a just cause, O Lord; attend to my cry; give ear to my prayer from lips free of deceit."
+                "text": "Hear a just cause, O Lord; attend to my cry; give ear to my prayer from lips free of deceit."
             },
             {
                 "verse_number": 2,
@@ -749,7 +753,7 @@
         "18": [
             {
                 "verse_number": 1,
-                "text": "Royal Thanksgiving for Victory To the leader. A Psalm of David the servant of the Lord, who addressed the words of this song to the Lord on the day when the Lord delivered him from the hand of all his enemies, and from the hand of Saul. He said: 1 I love you, O Lord, my strength."
+                "text": "I love you, O Lord, my strength."
             },
             {
                 "verse_number": 2,
@@ -951,7 +955,7 @@
         "19": [
             {
                 "verse_number": 1,
-                "text": "God’s Glory in Creation and the Law To the leader. A Psalm of David. 1 The heavens are telling the glory of God; and the firmament proclaims his handiwork."
+                "text": "The heavens are telling the glory of God; and the firmament proclaims his handiwork."
             },
             {
                 "verse_number": 2,
@@ -1009,7 +1013,7 @@
         "20": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Victory To the leader. A Psalm of David. 1 The Lord answer you in the day of trouble! The name of the God of Jacob protect you!"
+                "text": "The Lord answer you in the day of trouble! The name of the God of Jacob protect you!"
             },
             {
                 "verse_number": 2,
@@ -1047,7 +1051,7 @@
         "21": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for Victory To the leader. A Psalm of David. 1 In your strength the king rejoices, O Lord, and in your help how greatly he exults!"
+                "text": "In your strength the king rejoices, O Lord, and in your help how greatly he exults!"
             },
             {
                 "verse_number": 2,
@@ -1101,7 +1105,7 @@
         "22": [
             {
                 "verse_number": 1,
-                "text": "Plea for Deliverance from Suffering and Hostility To the leader: according to The Deer of the Dawn. A Psalm of David. 1 My God, my God, why have you forsaken me? Why are you so far from helping me, from the words of my groaning?"
+                "text": "My God, my God, why have you forsaken me? Why are you so far from helping me, from the words of my groaning?"
             },
             {
                 "verse_number": 2,
@@ -1227,7 +1231,7 @@
         "23": [
             {
                 "verse_number": 1,
-                "text": "The Divine Shepherd A Psalm of David. 1 The Lord is my shepherd, I shall not want."
+                "text": "The Lord is my shepherd, I shall not want."
             },
             {
                 "verse_number": 2,
@@ -1253,7 +1257,7 @@
         "24": [
             {
                 "verse_number": 1,
-                "text": "Entrance into the Temple Of David. A Psalm. 1 The earth is the Lord’s and all that is in it, the world, and those who live in it;"
+                "text": "The earth is the Lord’s and all that is in it, the world, and those who live in it;"
             },
             {
                 "verse_number": 2,
@@ -1295,7 +1299,7 @@
         "25": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Guidance and for Deliverance Of David. 1 To you, O Lord, I lift up my soul."
+                "text": "To you, O Lord, I lift up my soul."
             },
             {
                 "verse_number": 2,
@@ -1385,7 +1389,7 @@
         "26": [
             {
                 "verse_number": 1,
-                "text": "Plea for Justice and Declaration of Righteousness Of David. 1 Vindicate me, O Lord, for I have walked in my integrity, and I have trusted in the Lord without wavering."
+                "text": "Vindicate me, O Lord, for I have walked in my integrity, and I have trusted in the Lord without wavering."
             },
             {
                 "verse_number": 2,
@@ -1435,7 +1439,7 @@
         "27": [
             {
                 "verse_number": 1,
-                "text": "Triumphant Song of Confidence Of David. 1 The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?"
+                "text": "The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?"
             },
             {
                 "verse_number": 2,
@@ -1493,7 +1497,7 @@
         "28": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Help and Thanksgiving for It Of David. 1 To you, O Lord, I call; my rock, do not refuse to hear me, for if you are silent to me, I shall be like those who go down to the Pit."
+                "text": "To you, O Lord, I call; my rock, do not refuse to hear me, for if you are silent to me, I shall be like those who go down to the Pit."
             },
             {
                 "verse_number": 2,
@@ -1531,7 +1535,7 @@
         "29": [
             {
                 "verse_number": 1,
-                "text": "The Voice of God in a Great Storm A Psalm of David. 1 Ascribe to the Lord, O heavenly beings, ascribe to the Lord glory and strength."
+                "text": "Ascribe to the Lord, O heavenly beings, ascribe to the Lord glory and strength."
             },
             {
                 "verse_number": 2,
@@ -1577,7 +1581,7 @@
         "30": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for Recovery from Grave Illness A Psalm. A Song at the dedication of the temple. Of David. 1 I will extol you, O Lord, for you have drawn me up, and did not let my foes rejoice over me."
+                "text": "I will extol you, O Lord, for you have drawn me up, and did not let my foes rejoice over me."
             },
             {
                 "verse_number": 2,
@@ -1627,7 +1631,7 @@
         "31": [
             {
                 "verse_number": 1,
-                "text": "Prayer and Praise for Deliverance from Enemies To the leader. A Psalm of David. 1 In you, O Lord, I seek refuge; do not let me ever be put to shame; in your righteousness deliver me."
+                "text": "In you, O Lord, I seek refuge; do not let me ever be put to shame; in your righteousness deliver me."
             },
             {
                 "verse_number": 2,
@@ -1725,7 +1729,7 @@
         "32": [
             {
                 "verse_number": 1,
-                "text": "The Joy of Forgiveness Of David. A Maskil. 1 Happy are those whose transgression is forgiven, whose sin is covered."
+                "text": "Happy are those whose transgression is forgiven, whose sin is covered."
             },
             {
                 "verse_number": 2,
@@ -1771,7 +1775,7 @@
         "33": [
             {
                 "verse_number": 1,
-                "text": "The Greatness and Goodness of God 1 Rejoice in the Lord, O you righteous. Praise befits the upright."
+                "text": "Rejoice in the Lord, O you righteous. Praise befits the upright."
             },
             {
                 "verse_number": 2,
@@ -1861,7 +1865,7 @@
         "34": [
             {
                 "verse_number": 1,
-                "text": "Praise for Deliverance from Trouble Of David, when he feigned madness before Abimelech, so that he drove him out, and he went away. 1 I will bless the Lord at all times; his praise shall continually be in my mouth."
+                "text": "I will bless the Lord at all times; his praise shall continually be in my mouth."
             },
             {
                 "verse_number": 2,
@@ -1951,7 +1955,7 @@
         "35": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Enemies Of David. 1 Contend, O Lord, with those who contend with me; fight against those who fight against me!"
+                "text": "Contend, O Lord, with those who contend with me; fight against those who fight against me!"
             },
             {
                 "verse_number": 2,
@@ -2065,7 +2069,7 @@
         "36": [
             {
                 "verse_number": 1,
-                "text": "Human Wickedness and Divine Goodness To the leader. Of David, the servant of the Lord. 1 Transgression speaks to the wicked deep in their hearts; there is no fear of God before their eyes."
+                "text": "Transgression speaks to the wicked deep in their hearts; there is no fear of God before their eyes."
             },
             {
                 "verse_number": 2,
@@ -2115,7 +2119,7 @@
         "37": [
             {
                 "verse_number": 1,
-                "text": "Exhortation to Patience and Trust Of David. 1 Do not fret because of the wicked; do not be envious of wrongdoers,"
+                "text": "Do not fret because of the wicked; do not be envious of wrongdoers,"
             },
             {
                 "verse_number": 2,
@@ -2277,7 +2281,7 @@
         "38": [
             {
                 "verse_number": 1,
-                "text": "A Penitent Sufferer’s Plea for Healing A Psalm of David, for the memorial offering. 1 O Lord, do not rebuke me in your anger, or discipline me in your wrath."
+                "text": "O Lord, do not rebuke me in your anger, or discipline me in your wrath."
             },
             {
                 "verse_number": 2,
@@ -2367,7 +2371,7 @@
         "39": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Wisdom and Forgiveness To the leader: to Jeduthun. A Psalm of David. 1 I said, “I will guard my ways that I may not sin with my tongue; I will keep a muzzle on my mouth as long as the wicked are in my presence.”"
+                "text": "I said, “I will guard my ways that I may not sin with my tongue; I will keep a muzzle on my mouth as long as the wicked are in my presence.”"
             },
             {
                 "verse_number": 2,
@@ -2421,7 +2425,7 @@
         "40": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for Deliverance and Prayer for Help To the leader. Of David. A Psalm. 1 I waited patiently for the Lord; he inclined to me and heard my cry."
+                "text": "I waited patiently for the Lord; he inclined to me and heard my cry."
             },
             {
                 "verse_number": 2,
@@ -2442,10 +2446,6 @@
             {
                 "verse_number": 6,
                 "text": "Sacrifice and offering you do not desire, but you have given me an open ear. Burnt offering and sin offering you have not required."
-            },
-            {
-                "verse_number": 7,
-                "text": "Then I said, “Here I am; in the scroll of the book it is written of me."
             },
             {
                 "verse_number": 8,
@@ -2491,7 +2491,7 @@
         "41": [
             {
                 "verse_number": 1,
-                "text": "Assurance of God’s Help and a Plea for Healing To the leader. A Psalm of David. 1 Happy are those who consider the poor; the Lord delivers them in the day of trouble."
+                "text": "Happy are those who consider the poor; the Lord delivers them in the day of trouble."
             },
             {
                 "verse_number": 2,
@@ -2544,6 +2544,10 @@
         ],
         "42": [
             {
+                "verse_number": 1,
+                "text": "As a deer longs for flowing streams, so my soul longs for you, O God."
+            },
+            {
                 "verse_number": 2,
                 "text": "My soul thirsts for God, for the living God. When shall I come and behold the face of God?"
             },
@@ -2587,7 +2591,7 @@
         "43": [
             {
                 "verse_number": 1,
-                "text": "Prayer to God in Time of Trouble 1 Vindicate me, O God, and defend my cause against an ungodly people; from those who are deceitful and unjust deliver me!"
+                "text": "Vindicate me, O God, and defend my cause against an ungodly people; from those who are deceitful and unjust deliver me!"
             },
             {
                 "verse_number": 2,
@@ -2609,7 +2613,7 @@
         "44": [
             {
                 "verse_number": 1,
-                "text": "National Lament and Prayer for Help To the leader. Of the Korahites. A Maskil. 1 We have heard with our ears, O God, our ancestors have told us, what deeds you performed in their days, in the days of old:"
+                "text": "We have heard with our ears, O God, our ancestors have told us, what deeds you performed in their days, in the days of old:"
             },
             {
                 "verse_number": 2,
@@ -2715,7 +2719,7 @@
         "45": [
             {
                 "verse_number": 1,
-                "text": "Ode for a Royal Wedding To the leader: according to Lilies. Of the Korahites. A Maskil. A love song. 1 My heart overflows with a goodly theme; I address my verses to the king; my tongue is like the pen of a ready scribe."
+                "text": "My heart overflows with a goodly theme; I address my verses to the king; my tongue is like the pen of a ready scribe."
             },
             {
                 "verse_number": 2,
@@ -2785,7 +2789,7 @@
         "46": [
             {
                 "verse_number": 1,
-                "text": "God’s Defense of His City and People To the leader. Of the Korahites. According to Alamoth. A Song. 1 God is our refuge and strength, a very present help in trouble."
+                "text": "God is our refuge and strength, a very present help in trouble."
             },
             {
                 "verse_number": 2,
@@ -2831,7 +2835,7 @@
         "47": [
             {
                 "verse_number": 1,
-                "text": "God’s Rule over the Nations To the leader. Of the Korahites. A Psalm. 1 Clap your hands, all you peoples; shout to God with loud songs of joy."
+                "text": "Clap your hands, all you peoples; shout to God with loud songs of joy."
             },
             {
                 "verse_number": 2,
@@ -2854,10 +2858,6 @@
                 "text": "Sing praises to God, sing praises; sing praises to our King, sing praises."
             },
             {
-                "verse_number": 7,
-                "text": "For God is the king of all the earth; sing praises with a psalm."
-            },
-            {
                 "verse_number": 8,
                 "text": "God is king over the nations; God sits on his holy throne."
             },
@@ -2869,7 +2869,7 @@
         "48": [
             {
                 "verse_number": 1,
-                "text": "The Glory and Strength of Zion A Song. A Psalm of the Korahites. 1 Great is the Lord and greatly to be praised in the city of our God. His holy mountain,"
+                "text": "Great is the Lord and greatly to be praised in the city of our God. His holy mountain,"
             },
             {
                 "verse_number": 2,
@@ -2927,7 +2927,7 @@
         "49": [
             {
                 "verse_number": 1,
-                "text": "The Folly of Trust in Riches To the leader. Of the Korahites. A Psalm. 1 Hear this, all you peoples; give ear, all inhabitants of the world,"
+                "text": "Hear this, all you peoples; give ear, all inhabitants of the world,"
             },
             {
                 "verse_number": 2,
@@ -3009,7 +3009,7 @@
         "50": [
             {
                 "verse_number": 1,
-                "text": "The Acceptable Sacrifice A Psalm of Asaph. 1 The mighty one, God the Lord, speaks and summons the earth from the rising of the sun to its setting."
+                "text": "The mighty one, God the Lord, speaks and summons the earth from the rising of the sun to its setting."
             },
             {
                 "verse_number": 2,
@@ -3103,7 +3103,7 @@
         "51": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Cleansing and Pardon To the leader. A Psalm of David, when the prophet Nathan came to him, after he had gone in to Bathsheba. 1 Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions."
+                "text": "Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions."
             },
             {
                 "verse_number": 2,
@@ -3181,7 +3181,7 @@
         "52": [
             {
                 "verse_number": 1,
-                "text": "Judgment on the Deceitful To the leader. A Maskil of David, when Doeg the Edomite came to Saul and said to him, “David has come to the house of Ahimelech.” 1 Why do you boast, O mighty one, of mischief done against the godly? All day long"
+                "text": "Why do you boast, O mighty one, of mischief done against the godly? All day long"
             },
             {
                 "verse_number": 2,
@@ -3219,7 +3219,7 @@
         "53": [
             {
                 "verse_number": 1,
-                "text": "Denunciation of Godlessness To the leader: according to Mahalath. A Maskil of David. 1 Fools say in their hearts, “There is no God.” They are corrupt, they commit abominable acts; there is no one who does good."
+                "text": "Fools say in their hearts, “There is no God.” They are corrupt, they commit abominable acts; there is no one who does good."
             },
             {
                 "verse_number": 2,
@@ -3245,7 +3245,7 @@
         "54": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Vindication To the leader: with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, “David is in hiding among us.” 1 Save me, O God, by your name, and vindicate me by your might."
+                "text": "Save me, O God, by your name, and vindicate me by your might."
             },
             {
                 "verse_number": 2,
@@ -3275,7 +3275,7 @@
         "55": [
             {
                 "verse_number": 1,
-                "text": "Complaint about a Friend’s Treachery To the leader: with stringed instruments. A Maskil of David. 1 Give ear to my prayer, O God; do not hide yourself from my supplication."
+                "text": "Give ear to my prayer, O God; do not hide yourself from my supplication."
             },
             {
                 "verse_number": 2,
@@ -3369,7 +3369,7 @@
         "56": [
             {
                 "verse_number": 1,
-                "text": "Trust in God under Persecution To the leader: according to The Dove on Far-off Terebinths. Of David. A Miktam, when the Philistines seized him in Gath. 1 Be gracious to me, O God, for people trample on me; all day long foes oppress me;"
+                "text": "Be gracious to me, O God, for people trample on me; all day long foes oppress me;"
             },
             {
                 "verse_number": 2,
@@ -3423,7 +3423,7 @@
         "57": [
             {
                 "verse_number": 1,
-                "text": "Praise and Assurance under Persecution To the leader: Do Not Destroy. Of David. A Miktam, when he fled from Saul, in the cave. 1 Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge, until the destroying storms pass by."
+                "text": "Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge, until the destroying storms pass by."
             },
             {
                 "verse_number": 2,
@@ -3469,7 +3469,7 @@
         "58": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Vengeance To the leader: Do Not Destroy. Of David. A Miktam. 1 Do you indeed decree what is right, you gods? Do you judge people fairly?"
+                "text": "Do you indeed decree what is right, you gods? Do you judge people fairly?"
             },
             {
                 "verse_number": 2,
@@ -3515,7 +3515,7 @@
         "59": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Enemies To the leader: Do Not Destroy. Of David. A Miktam, when Saul ordered his house to be watched in order to kill him. 1 Deliver me from my enemies, O my God; protect me from those who rise up against me."
+                "text": "Deliver me from my enemies, O my God; protect me from those who rise up against me."
             },
             {
                 "verse_number": 2,
@@ -3585,7 +3585,7 @@
         "60": [
             {
                 "verse_number": 1,
-                "text": "Prayer for National Victory after Defeat To the leader: according to the Lily of the Covenant. A Miktam of David; for instruction; when he struggled with Aram-naharaim and with Aram-zobah, and when Joab on his return killed twelve thousand Edomites in the Valley of Salt. 1 O God, you have rejected us, broken our defenses; you have been angry; now restore us!"
+                "text": "O God, you have rejected us, broken our defenses; you have been angry; now restore us!"
             },
             {
                 "verse_number": 2,
@@ -3635,7 +3635,7 @@
         "61": [
             {
                 "verse_number": 1,
-                "text": "Assurance of God’s Protection To the leader: with stringed instruments. Of David. 1 Hear my cry, O God; listen to my prayer."
+                "text": "Hear my cry, O God; listen to my prayer."
             },
             {
                 "verse_number": 2,
@@ -3669,7 +3669,7 @@
         "62": [
             {
                 "verse_number": 1,
-                "text": "Song of Trust in God Alone To the leader: according to Jeduthun. A Psalm of David. 1 For God alone my soul waits in silence; from him comes my salvation."
+                "text": "For God alone my soul waits in silence; from him comes my salvation."
             },
             {
                 "verse_number": 2,
@@ -3719,7 +3719,7 @@
         "63": [
             {
                 "verse_number": 1,
-                "text": "Comfort and Assurance in God’s Presence A Psalm of David, when he was in the Wilderness of Judah. 1 O God, you are my God, I seek you, my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water."
+                "text": "O God, you are my God, I seek you, my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water."
             },
             {
                 "verse_number": 2,
@@ -3765,7 +3765,7 @@
         "64": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Protection from Enemies To the leader. A Psalm of David. 1 Hear my voice, O God, in my complaint; preserve my life from the dread enemy."
+                "text": "Hear my voice, O God, in my complaint; preserve my life from the dread enemy."
             },
             {
                 "verse_number": 2,
@@ -3807,7 +3807,7 @@
         "65": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for Earth’s Bounty To the leader. A Psalm of David. A Song. 1 Praise is due to you, O God, in Zion; and to you shall vows be performed,"
+                "text": "Praise is due to you, O God, in Zion; and to you shall vows be performed,"
             },
             {
                 "verse_number": 2,
@@ -3861,7 +3861,7 @@
         "66": [
             {
                 "verse_number": 1,
-                "text": "Praise for God’s Goodness to Israel To the leader. A Song. A Psalm. 1 Make a joyful noise to God, all the earth;"
+                "text": "Make a joyful noise to God, all the earth;"
             },
             {
                 "verse_number": 2,
@@ -3943,7 +3943,7 @@
         "67": [
             {
                 "verse_number": 1,
-                "text": "The Nations Called to Praise God To the leader: with stringed instruments. A Psalm. A Song. 1 May God be gracious to us and bless us and make his face to shine upon us,Selah"
+                "text": "May God be gracious to us and bless us and make his face to shine upon us,Selah"
             },
             {
                 "verse_number": 2,
@@ -3973,7 +3973,7 @@
         "68": [
             {
                 "verse_number": 1,
-                "text": "Praise and Thanksgiving To the leader. Of David. A Psalm. A Song. 1 Let God rise up, let his enemies be scattered; let those who hate him flee before him."
+                "text": "Let God rise up, let his enemies be scattered; let those who hate him flee before him."
             },
             {
                 "verse_number": 2,
@@ -4115,7 +4115,7 @@
         "69": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Persecution To the leader: according to Lilies. Of David. 1 Save me, O God, for the waters have come up to my neck."
+                "text": "Save me, O God, for the waters have come up to my neck."
             },
             {
                 "verse_number": 2,
@@ -4222,10 +4222,6 @@
                 "text": "Add guilt to their guilt; may they have no acquittal from you."
             },
             {
-                "verse_number": 28,
-                "text": "Let them be blotted out of the book of the living; let them not be enrolled among the righteous."
-            },
-            {
                 "verse_number": 29,
                 "text": "But I am lowly and in pain; let your salvation, O God, protect me."
             },
@@ -4261,7 +4257,7 @@
         "70": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Enemies To the leader. Of David, for the memorial offering. 1 Be pleased, O God, to deliver me. O Lord, make haste to help me!"
+                "text": "Be pleased, O God, to deliver me. O Lord, make haste to help me!"
             },
             {
                 "verse_number": 2,
@@ -4283,7 +4279,7 @@
         "71": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Lifelong Protection and Help 1 In you, O Lord, I take refuge; let me never be put to shame."
+                "text": "In you, O Lord, I take refuge; let me never be put to shame."
             },
             {
                 "verse_number": 2,
@@ -4381,7 +4377,7 @@
         "72": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Guidance and Support for the King Of Solomon. 1 Give the king your justice, O God, and your righteousness to a king’s son."
+                "text": "Give the king your justice, O God, and your righteousness to a king’s son."
             },
             {
                 "verse_number": 2,
@@ -4461,6 +4457,10 @@
             }
         ],
         "73": [
+            {
+                "verse_number": 1,
+                "text": "Truly God is good to the upright, to those who are pure in heart."
+            },
             {
                 "verse_number": 2,
                 "text": "But as for me, my feet had almost stumbled; my steps had nearly slipped."
@@ -4573,7 +4573,7 @@
         "74": [
             {
                 "verse_number": 1,
-                "text": "Plea for Help in Time of National Humiliation A Maskil of Asaph. 1 O God, why do you cast us off forever? Why does your anger smoke against the sheep of your pasture?"
+                "text": "O God, why do you cast us off forever? Why does your anger smoke against the sheep of your pasture?"
             },
             {
                 "verse_number": 2,
@@ -4667,7 +4667,7 @@
         "75": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for God’s Wondrous Deeds To the leader: Do Not Destroy. A Psalm of Asaph. A Song. 1 We give thanks to you, O God; we give thanks; your name is near. People tell of your wondrous deeds."
+                "text": "We give thanks to you, O God; we give thanks; your name is near. People tell of your wondrous deeds."
             },
             {
                 "verse_number": 2,
@@ -4709,7 +4709,7 @@
         "76": [
             {
                 "verse_number": 1,
-                "text": "Israel’s God—Judge of All the Earth To the leader: with stringed instruments. A Psalm of Asaph. A Song. 1 In Judah God is known, his name is great in Israel."
+                "text": "In Judah God is known, his name is great in Israel."
             },
             {
                 "verse_number": 2,
@@ -4759,7 +4759,7 @@
         "77": [
             {
                 "verse_number": 1,
-                "text": "God’s Mighty Deeds Recalled To the leader: according to Jeduthun. Of Asaph. A Psalm. 1 I cry aloud to God, aloud to God, that he may hear me."
+                "text": "I cry aloud to God, aloud to God, that he may hear me."
             },
             {
                 "verse_number": 2,
@@ -4841,7 +4841,7 @@
         "78": [
             {
                 "verse_number": 1,
-                "text": "God’s Goodness and Israel’s Ingratitude A Maskil of Asaph. 1 Give ear, O my people, to my teaching; incline your ears to the words of my mouth."
+                "text": "Give ear, O my people, to my teaching; incline your ears to the words of my mouth."
             },
             {
                 "verse_number": 2,
@@ -5131,7 +5131,7 @@
         "79": [
             {
                 "verse_number": 1,
-                "text": "Plea for Mercy for Jerusalem A Psalm of Asaph. 1 O God, the nations have come into your inheritance; they have defiled your holy temple; they have laid Jerusalem in ruins."
+                "text": "O God, the nations have come into your inheritance; they have defiled your holy temple; they have laid Jerusalem in ruins."
             },
             {
                 "verse_number": 2,
@@ -5185,7 +5185,7 @@
         "80": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Israel’s Restoration To the leader: on Lilies, a Covenant. Of Asaph. A Psalm. 1 Give ear, O Shepherd of Israel, you who lead Joseph like a flock! You who are enthroned upon the cherubim, shine forth"
+                "text": "Give ear, O Shepherd of Israel, you who lead Joseph like a flock! You who are enthroned upon the cherubim, shine forth"
             },
             {
                 "verse_number": 2,
@@ -5263,7 +5263,7 @@
         "81": [
             {
                 "verse_number": 1,
-                "text": "God’s Appeal to Stubborn Israel To the leader: according to The Gittith. Of Asaph. 1 Sing aloud to God our strength; shout for joy to the God of Jacob."
+                "text": "Sing aloud to God our strength; shout for joy to the God of Jacob."
             },
             {
                 "verse_number": 2,
@@ -5329,7 +5329,7 @@
         "82": [
             {
                 "verse_number": 1,
-                "text": "A Plea for Justice A Psalm of Asaph. 1 God has taken his place in the divine council; in the midst of the gods he holds judgment:"
+                "text": "God has taken his place in the divine council; in the midst of the gods he holds judgment:"
             },
             {
                 "verse_number": 2,
@@ -5363,7 +5363,7 @@
         "83": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Judgment on Israel’s Foes A Song. A Psalm of Asaph. 1 O God, do not keep silence; do not hold your peace or be still, O God!"
+                "text": "O God, do not keep silence; do not hold your peace or be still, O God!"
             },
             {
                 "verse_number": 2,
@@ -5437,7 +5437,7 @@
         "84": [
             {
                 "verse_number": 1,
-                "text": "The Joy of Worship in the Temple To the leader: according to The Gittith. Of the Korahites. A Psalm. 1 How lovely is your dwelling place, O Lord of hosts!"
+                "text": "How lovely is your dwelling place, O Lord of hosts!"
             },
             {
                 "verse_number": 2,
@@ -5487,7 +5487,7 @@
         "85": [
             {
                 "verse_number": 1,
-                "text": "Prayer for the Restoration of God’s Favor To the leader. Of the Korahites. A Psalm. 1 Lord, you were favorable to your land; you restored the fortunes of Jacob."
+                "text": "Lord, you were favorable to your land; you restored the fortunes of Jacob."
             },
             {
                 "verse_number": 2,
@@ -5541,7 +5541,7 @@
         "86": [
             {
                 "verse_number": 1,
-                "text": "Supplication for Help against Enemies A Prayer of David. 1 Incline your ear, O Lord, and answer me, for I am poor and needy."
+                "text": "Incline your ear, O Lord, and answer me, for I am poor and needy."
             },
             {
                 "verse_number": 2,
@@ -5611,7 +5611,7 @@
         "87": [
             {
                 "verse_number": 1,
-                "text": "The Joy of Living in Zion Of the Korahites. A Psalm. A Song. 1 On the holy mount stands the city he founded;"
+                "text": "On the holy mount stands the city he founded;"
             },
             {
                 "verse_number": 2,
@@ -5641,7 +5641,7 @@
         "88": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Help in Despondency A Song. A Psalm of the Korahites. To the leader: according to Mahalath Leannoth. A Maskil of Heman the Ezrahite. 1 O Lord, God of my salvation, when, at night, I cry out in your presence,"
+                "text": "O Lord, God of my salvation, when, at night, I cry out in your presence,"
             },
             {
                 "verse_number": 2,
@@ -5715,7 +5715,7 @@
         "89": [
             {
                 "verse_number": 1,
-                "text": "God’s Covenant with David A Maskil of Ethan the Ezrahite. 1 I will sing of your steadfast love, O Lord, forever; with my mouth I will proclaim your faithfulness to all generations."
+                "text": "I will sing of your steadfast love, O Lord, forever; with my mouth I will proclaim your faithfulness to all generations."
             },
             {
                 "verse_number": 2,
@@ -5924,6 +5924,10 @@
         ],
         "90": [
             {
+                "verse_number": 1,
+                "text": "Lord, you have been our dwelling place in all generations."
+            },
+            {
                 "verse_number": 2,
                 "text": "Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God."
             },
@@ -5991,7 +5995,7 @@
         "91": [
             {
                 "verse_number": 1,
-                "text": "Assurance of God’s Protection 1 You who live in the shelter of the Most High, who abide in the shadow of the Almighty,"
+                "text": "You who live in the shelter of the Most High, who abide in the shadow of the Almighty,"
             },
             {
                 "verse_number": 2,
@@ -6057,7 +6061,7 @@
         "92": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for Vindication A Psalm. A Song for the Sabbath Day. 1 It is good to give thanks to the Lord, to sing praises to your name, O Most High;"
+                "text": "It is good to give thanks to the Lord, to sing praises to your name, O Most High;"
             },
             {
                 "verse_number": 2,
@@ -6119,7 +6123,7 @@
         "93": [
             {
                 "verse_number": 1,
-                "text": "The Majesty of God’s Rule 1 The Lord is king, he is robed in majesty; the Lord is robed, he is girded with strength. He has established the world; it shall never be moved;"
+                "text": "The Lord is king, he is robed in majesty; the Lord is robed, he is girded with strength. He has established the world; it shall never be moved;"
             },
             {
                 "verse_number": 2,
@@ -6141,7 +6145,7 @@
         "94": [
             {
                 "verse_number": 1,
-                "text": "God the Avenger of the Righteous 1 O Lord, you God of vengeance, you God of vengeance, shine forth!"
+                "text": "O Lord, you God of vengeance, you God of vengeance, shine forth!"
             },
             {
                 "verse_number": 2,
@@ -6235,7 +6239,7 @@
         "95": [
             {
                 "verse_number": 1,
-                "text": "A Call to Worship and Obedience 1 O come, let us sing to the Lord; let us make a joyful noise to the rock of our salvation!"
+                "text": "O come, let us sing to the Lord; let us make a joyful noise to the rock of our salvation!"
             },
             {
                 "verse_number": 2,
@@ -6281,7 +6285,7 @@
         "96": [
             {
                 "verse_number": 1,
-                "text": "Praise to God Who Comes in Judgment 1 O sing to the Lord a new song; sing to the Lord, all the earth."
+                "text": "O sing to the Lord a new song; sing to the Lord, all the earth."
             },
             {
                 "verse_number": 2,
@@ -6335,7 +6339,7 @@
         "97": [
             {
                 "verse_number": 1,
-                "text": "The Glory of God’s Reign 1 The Lord is king! Let the earth rejoice; let the many coastlands be glad!"
+                "text": "The Lord is king! Let the earth rejoice; let the many coastlands be glad!"
             },
             {
                 "verse_number": 2,
@@ -6385,7 +6389,7 @@
         "98": [
             {
                 "verse_number": 1,
-                "text": "Praise the Judge of the World A Psalm. 1 O sing to the Lord a new song, for he has done marvelous things. His right hand and his holy arm have gotten him victory."
+                "text": "O sing to the Lord a new song, for he has done marvelous things. His right hand and his holy arm have gotten him victory."
             },
             {
                 "verse_number": 2,
@@ -6423,7 +6427,7 @@
         "99": [
             {
                 "verse_number": 1,
-                "text": "Praise to God for His Holiness 1 The Lord is king; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!"
+                "text": "The Lord is king; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!"
             },
             {
                 "verse_number": 2,
@@ -6461,7 +6465,7 @@
         "100": [
             {
                 "verse_number": 1,
-                "text": "All Lands Summoned to Praise God A Psalm of thanksgiving. 1 Make a joyful noise to the Lord, all the earth."
+                "text": "Make a joyful noise to the Lord, all the earth."
             },
             {
                 "verse_number": 2,
@@ -6483,7 +6487,7 @@
         "101": [
             {
                 "verse_number": 1,
-                "text": "A Sovereign’s Pledge of Integrity and Justice Of David. A Psalm. 1 I will sing of loyalty and of justice; to you, O Lord, I will sing."
+                "text": "I will sing of loyalty and of justice; to you, O Lord, I will sing."
             },
             {
                 "verse_number": 2,
@@ -6517,7 +6521,7 @@
         "102": [
             {
                 "verse_number": 1,
-                "text": "Prayer to the Eternal King for Help A prayer of one afflicted, when faint and pleading before the Lord. 1 Hear my prayer, O Lord; let my cry come to you."
+                "text": "Hear my prayer, O Lord; let my cry come to you."
             },
             {
                 "verse_number": 2,
@@ -6631,7 +6635,7 @@
         "103": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for God’s Goodness Of David. 1 Bless the Lord, O my soul, and all that is within me, bless his holy name."
+                "text": "Bless the Lord, O my soul, and all that is within me, bless his holy name."
             },
             {
                 "verse_number": 2,
@@ -6721,7 +6725,7 @@
         "104": [
             {
                 "verse_number": 1,
-                "text": "God the Creator and Provider 1 Bless the Lord, O my soul. O Lord my God, you are very great. You are clothed with honor and majesty,"
+                "text": "Bless the Lord, O my soul. O Lord my God, you are very great. You are clothed with honor and majesty,"
             },
             {
                 "verse_number": 2,
@@ -6863,7 +6867,7 @@
         "105": [
             {
                 "verse_number": 1,
-                "text": "God’s Faithfulness to Israel 1 O give thanks to the Lord, call on his name, make known his deeds among the peoples."
+                "text": "O give thanks to the Lord, call on his name, make known his deeds among the peoples."
             },
             {
                 "verse_number": 2,
@@ -7045,7 +7049,7 @@
         "106": [
             {
                 "verse_number": 1,
-                "text": "A Confession of Israel’s Sins 1 Praise the Lord! O give thanks to the Lord, for he is good; for his steadfast love endures forever."
+                "text": "Praise the Lord! O give thanks to the Lord, for he is good; for his steadfast love endures forever."
             },
             {
                 "verse_number": 2,
@@ -7238,6 +7242,10 @@
         ],
         "107": [
             {
+                "verse_number": 1,
+                "text": "O give thanks to the Lord, for he is good; for his steadfast love endures forever."
+            },
+            {
                 "verse_number": 2,
                 "text": "Let the redeemed of the Lord say so, those he redeemed from trouble"
             },
@@ -7409,7 +7417,7 @@
         "108": [
             {
                 "verse_number": 1,
-                "text": "Praise and Prayer for Victory A Song. A Psalm of David. 1 My heart is steadfast, O God, my heart is steadfast; I will sing and make melody. Awake, my soul!"
+                "text": "My heart is steadfast, O God, my heart is steadfast; I will sing and make melody. Awake, my soul!"
             },
             {
                 "verse_number": 2,
@@ -7463,7 +7471,7 @@
         "109": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Vindication and Vengeance To the leader. Of David. A Psalm. 1 Do not be silent, O God of my praise."
+                "text": "Do not be silent, O God of my praise."
             },
             {
                 "verse_number": 2,
@@ -7589,7 +7597,7 @@
         "110": [
             {
                 "verse_number": 1,
-                "text": "Assurance of Victory for God’s Priest-King Of David. A Psalm. 1 The Lord says to my lord, “Sit at my right hand until I make your enemies your footstool.”"
+                "text": "The Lord says to my lord, “Sit at my right hand until I make your enemies your footstool.”"
             },
             {
                 "verse_number": 2,
@@ -7619,7 +7627,7 @@
         "111": [
             {
                 "verse_number": 1,
-                "text": "Praise for God’s Wonderful Works 1 Praise the Lord! I will give thanks to the Lord with my whole heart, in the company of the upright, in the congregation."
+                "text": "Praise the Lord! I will give thanks to the Lord with my whole heart, in the company of the upright, in the congregation."
             },
             {
                 "verse_number": 2,
@@ -7661,7 +7669,7 @@
         "112": [
             {
                 "verse_number": 1,
-                "text": "Blessings of the Righteous 1 Praise the Lord! Happy are those who fear the Lord, who greatly delight in his commandments."
+                "text": "Praise the Lord! Happy are those who fear the Lord, who greatly delight in his commandments."
             },
             {
                 "verse_number": 2,
@@ -7703,7 +7711,7 @@
         "113": [
             {
                 "verse_number": 1,
-                "text": "God the Helper of the Needy 1 Praise the Lord! Praise, O servants of the Lord; praise the name of the Lord."
+                "text": "Praise the Lord! Praise, O servants of the Lord; praise the name of the Lord."
             },
             {
                 "verse_number": 2,
@@ -7741,7 +7749,7 @@
         "114": [
             {
                 "verse_number": 1,
-                "text": "God’s Wonders at the Exodus 1 When Israel went out from Egypt, the house of Jacob from a people of strange language,"
+                "text": "When Israel went out from Egypt, the house of Jacob from a people of strange language,"
             },
             {
                 "verse_number": 2,
@@ -7775,7 +7783,7 @@
         "115": [
             {
                 "verse_number": 1,
-                "text": "The Impotence of Idols and the Greatness of God 1 Not to us, O Lord, not to us, but to your name give glory, for the sake of your steadfast love and your faithfulness."
+                "text": "Not to us, O Lord, not to us, but to your name give glory, for the sake of your steadfast love and your faithfulness."
             },
             {
                 "verse_number": 2,
@@ -7849,7 +7857,7 @@
         "116": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for Recovery from Illness 1 I love the Lord, because he has heard my voice and my supplications."
+                "text": "I love the Lord, because he has heard my voice and my supplications."
             },
             {
                 "verse_number": 2,
@@ -7927,7 +7935,7 @@
         "117": [
             {
                 "verse_number": 1,
-                "text": "Universal Call to Worship 1 Praise the Lord, all you nations! Extol him, all you peoples!"
+                "text": "Praise the Lord, all you nations! Extol him, all you peoples!"
             },
             {
                 "verse_number": 2,
@@ -7937,7 +7945,7 @@
         "118": [
             {
                 "verse_number": 1,
-                "text": "A Song of Victory 1 O give thanks to the Lord, for he is good; his steadfast love endures forever!"
+                "text": "O give thanks to the Lord, for he is good; his steadfast love endures forever!"
             },
             {
                 "verse_number": 2,
@@ -8055,7 +8063,7 @@
         "119": [
             {
                 "verse_number": 1,
-                "text": "The Glories of God’s Law 1 Happy are those whose way is blameless, who walk in the law of the Lord."
+                "text": "Happy are those whose way is blameless, who walk in the law of the Lord."
             },
             {
                 "verse_number": 2,
@@ -8761,7 +8769,7 @@
         "120": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Slanderers A Song of Ascents. 1 In my distress I cry to the Lord, that he may answer me:"
+                "text": "In my distress I cry to the Lord, that he may answer me:"
             },
             {
                 "verse_number": 2,
@@ -8791,7 +8799,7 @@
         "121": [
             {
                 "verse_number": 1,
-                "text": "Assurance of God’s Protection A Song of Ascents. 1 I lift up my eyes to the hills— from where will my help come?"
+                "text": "I lift up my eyes to the hills— from where will my help come?"
             },
             {
                 "verse_number": 2,
@@ -8825,7 +8833,7 @@
         "122": [
             {
                 "verse_number": 1,
-                "text": "Song of Praise and Prayer for Jerusalem A Song of Ascents. Of David. 1 I was glad when they said to me, “Let us go to the house of the Lord!”"
+                "text": "I was glad when they said to me, “Let us go to the house of the Lord!”"
             },
             {
                 "verse_number": 2,
@@ -8863,7 +8871,7 @@
         "123": [
             {
                 "verse_number": 1,
-                "text": "Supplication for Mercy A Song of Ascents. 1 To you I lift up my eyes, O you who are enthroned in the heavens!"
+                "text": "To you I lift up my eyes, O you who are enthroned in the heavens!"
             },
             {
                 "verse_number": 2,
@@ -8881,7 +8889,7 @@
         "124": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving for Israel’s Deliverance A Song of Ascents. Of David. 1 If it had not been the Lord who was on our side —let Israel now say—"
+                "text": "If it had not been the Lord who was on our side —let Israel now say—"
             },
             {
                 "verse_number": 2,
@@ -8915,7 +8923,7 @@
         "125": [
             {
                 "verse_number": 1,
-                "text": "The Security of God’s People A Song of Ascents. 1 Those who trust in the Lord are like Mount Zion, which cannot be moved, but abides forever."
+                "text": "Those who trust in the Lord are like Mount Zion, which cannot be moved, but abides forever."
             },
             {
                 "verse_number": 2,
@@ -8937,7 +8945,7 @@
         "126": [
             {
                 "verse_number": 1,
-                "text": "A Harvest of Joy A Song of Ascents. 1 When the Lord restored the fortunes of Zion, we were like those who dream."
+                "text": "When the Lord restored the fortunes of Zion, we were like those who dream."
             },
             {
                 "verse_number": 2,
@@ -8963,7 +8971,7 @@
         "127": [
             {
                 "verse_number": 1,
-                "text": "God’s Blessings in the Home A Song of Ascents. Of Solomon. 1 Unless the Lord builds the house, those who build it labor in vain. Unless the Lord guards the city, the guard keeps watch in vain."
+                "text": "Unless the Lord builds the house, those who build it labor in vain. Unless the Lord guards the city, the guard keeps watch in vain."
             },
             {
                 "verse_number": 2,
@@ -8985,7 +8993,7 @@
         "128": [
             {
                 "verse_number": 1,
-                "text": "The Happy Home of the Faithful A Song of Ascents. 1 Happy is everyone who fears the Lord, who walks in his ways."
+                "text": "Happy is everyone who fears the Lord, who walks in his ways."
             },
             {
                 "verse_number": 2,
@@ -9011,7 +9019,7 @@
         "129": [
             {
                 "verse_number": 1,
-                "text": "Prayer for the Downfall of Israel’s Enemies A Song of Ascents. 1 “Often have they attacked me from my youth” —let Israel now say—"
+                "text": "“Often have they attacked me from my youth” —let Israel now say—"
             },
             {
                 "verse_number": 2,
@@ -9045,7 +9053,7 @@
         "130": [
             {
                 "verse_number": 1,
-                "text": "Waiting for Divine Redemption A Song of Ascents. 1 Out of the depths I cry to you, O Lord."
+                "text": "Out of the depths I cry to you, O Lord."
             },
             {
                 "verse_number": 2,
@@ -9079,7 +9087,7 @@
         "131": [
             {
                 "verse_number": 1,
-                "text": "Song of Quiet Trust A Song of Ascents. Of David. 1 O Lord, my heart is not lifted up, my eyes are not raised too high; I do not occupy myself with things too great and too marvelous for me."
+                "text": "O Lord, my heart is not lifted up, my eyes are not raised too high; I do not occupy myself with things too great and too marvelous for me."
             },
             {
                 "verse_number": 2,
@@ -9093,7 +9101,7 @@
         "132": [
             {
                 "verse_number": 1,
-                "text": "The Eternal Dwelling of God in Zion A Song of Ascents. 1 O Lord, remember in David’s favor all the hardships he endured;"
+                "text": "O Lord, remember in David’s favor all the hardships he endured;"
             },
             {
                 "verse_number": 2,
@@ -9167,7 +9175,7 @@
         "133": [
             {
                 "verse_number": 1,
-                "text": "The Blessedness of Unity A Song of Ascents. 1 How very good and pleasant it is when kindred live together in unity!"
+                "text": "How very good and pleasant it is when kindred live together in unity!"
             },
             {
                 "verse_number": 2,
@@ -9181,7 +9189,7 @@
         "134": [
             {
                 "verse_number": 1,
-                "text": "Praise in the Night A Song of Ascents. 1 Come, bless the Lord, all you servants of the Lord, who stand by night in the house of the Lord!"
+                "text": "Come, bless the Lord, all you servants of the Lord, who stand by night in the house of the Lord!"
             },
             {
                 "verse_number": 2,
@@ -9195,7 +9203,7 @@
         "135": [
             {
                 "verse_number": 1,
-                "text": "Praise for God’s Goodness and Might 1 Praise the Lord! Praise the name of the Lord; give praise, O servants of the Lord,"
+                "text": "Praise the Lord! Praise the name of the Lord; give praise, O servants of the Lord,"
             },
             {
                 "verse_number": 2,
@@ -9281,7 +9289,7 @@
         "136": [
             {
                 "verse_number": 1,
-                "text": "God’s Work in Creation and in History 1 O give thanks to the Lord, for he is good, for his steadfast love endures forever."
+                "text": "O give thanks to the Lord, for he is good, for his steadfast love endures forever."
             },
             {
                 "verse_number": 2,
@@ -9387,7 +9395,7 @@
         "137": [
             {
                 "verse_number": 1,
-                "text": "Lament over the Destruction of Jerusalem 1 By the rivers of Babylon— there we sat down and there we wept when we remembered Zion."
+                "text": "By the rivers of Babylon— there we sat down and there we wept when we remembered Zion."
             },
             {
                 "verse_number": 2,
@@ -9425,7 +9433,7 @@
         "138": [
             {
                 "verse_number": 1,
-                "text": "Thanksgiving and Praise Of David. 1 I give you thanks, O Lord, with my whole heart; before the gods I sing your praise;"
+                "text": "I give you thanks, O Lord, with my whole heart; before the gods I sing your praise;"
             },
             {
                 "verse_number": 2,
@@ -9459,7 +9467,7 @@
         "139": [
             {
                 "verse_number": 1,
-                "text": "The Inescapable God To the leader. Of David. A Psalm. 1 O Lord, you have searched me and known me."
+                "text": "O Lord, you have searched me and known me."
             },
             {
                 "verse_number": 2,
@@ -9518,10 +9526,6 @@
                 "text": "My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth."
             },
             {
-                "verse_number": 16,
-                "text": "Your eyes beheld my unformed substance. In your book were written all the days that were formed for me, when none of them as yet existed."
-            },
-            {
                 "verse_number": 17,
                 "text": "How weighty to me are your thoughts, O God! How vast is the sum of them!"
             },
@@ -9557,7 +9561,7 @@
         "140": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Enemies To the leader. A Psalm of David. 1 Deliver me, O Lord, from evildoers; protect me from those who are violent,"
+                "text": "Deliver me, O Lord, from evildoers; protect me from those who are violent,"
             },
             {
                 "verse_number": 2,
@@ -9611,7 +9615,7 @@
         "141": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Preservation from Evil A Psalm of David. 1 I call upon you, O Lord; come quickly to me; give ear to my voice when I call to you."
+                "text": "I call upon you, O Lord; come quickly to me; give ear to my voice when I call to you."
             },
             {
                 "verse_number": 2,
@@ -9653,7 +9657,7 @@
         "142": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Persecutors A Maskil of David. When he was in the cave. A Prayer. 1 With my voice I cry to the Lord; with my voice I make supplication to the Lord."
+                "text": "With my voice I cry to the Lord; with my voice I make supplication to the Lord."
             },
             {
                 "verse_number": 2,
@@ -9683,7 +9687,7 @@
         "143": [
             {
                 "verse_number": 1,
-                "text": "Prayer for Deliverance from Enemies A Psalm of David. 1 Hear my prayer, O Lord; give ear to my supplications in your faithfulness; answer me in your righteousness."
+                "text": "Hear my prayer, O Lord; give ear to my supplications in your faithfulness; answer me in your righteousness."
             },
             {
                 "verse_number": 2,
@@ -9733,7 +9737,7 @@
         "144": [
             {
                 "verse_number": 1,
-                "text": "Prayer for National Deliverance and Security Of David. 1 Blessed be the Lord, my rock, who trains my hands for war, and my fingers for battle;"
+                "text": "Blessed be the Lord, my rock, who trains my hands for war, and my fingers for battle;"
             },
             {
                 "verse_number": 2,
@@ -9795,7 +9799,7 @@
         "145": [
             {
                 "verse_number": 1,
-                "text": "The Greatness and the Goodness of God Praise. Of David. 1 I will extol you, my God and King, and bless your name forever and ever."
+                "text": "I will extol you, my God and King, and bless your name forever and ever."
             },
             {
                 "verse_number": 2,
@@ -9881,7 +9885,7 @@
         "146": [
             {
                 "verse_number": 1,
-                "text": "Praise for God’s Help 1 Praise the Lord! Praise the Lord, O my soul!"
+                "text": "Praise the Lord! Praise the Lord, O my soul!"
             },
             {
                 "verse_number": 2,
@@ -9923,7 +9927,7 @@
         "147": [
             {
                 "verse_number": 1,
-                "text": "Praise for God’s Care for Jerusalem 1 Praise the Lord! How good it is to sing praises to our God; for he is gracious, and a song of praise is fitting."
+                "text": "Praise the Lord! How good it is to sing praises to our God; for he is gracious, and a song of praise is fitting."
             },
             {
                 "verse_number": 2,
@@ -10005,7 +10009,7 @@
         "148": [
             {
                 "verse_number": 1,
-                "text": "Praise for God’s Universal Glory 1 Praise the Lord! Praise the Lord from the heavens; praise him in the heights!"
+                "text": "Praise the Lord! Praise the Lord from the heavens; praise him in the heights!"
             },
             {
                 "verse_number": 2,
@@ -10063,7 +10067,7 @@
         "149": [
             {
                 "verse_number": 1,
-                "text": "Praise for God’s Goodness to Israel 1 Praise the Lord! Sing to the Lord a new song, his praise in the assembly of the faithful."
+                "text": "Praise the Lord! Sing to the Lord a new song, his praise in the assembly of the faithful."
             },
             {
                 "verse_number": 2,
@@ -10101,7 +10105,7 @@
         "150": [
             {
                 "verse_number": 1,
-                "text": "Praise for God’s Surpassing Greatness 1 Praise the Lord! Praise God in his sanctuary; praise him in his mighty firmament!"
+                "text": "Praise the Lord! Praise God in his sanctuary; praise him in his mighty firmament!"
             },
             {
                 "verse_number": 2,
@@ -21366,8 +21370,12 @@
     "sirach": {
         "1": [
             {
+                "verse_number": 0,
+                "text": "Many great teachings have been given to us through the Law and the Prophets and the others that followed them, and for these we should praise Israel for instruction and wisdom. Now, those who read the scriptures must not only themselves understand them, but must also as lovers of learning be able through the spoken and written word to help the outsiders. So my grandfather Jesus, who had devoted himself especially to the reading of the Law and the Prophets and the other books of our ancestors, and had acquired considerable proficiency in them, was himself also led to write something pertaining to instruction and wisdom, so that by becoming familiar also with his book those who love learning might make even greater progress in living according to the law. You are invited therefore to read it with goodwill and attention, and to be indulgent in cases where, despite our diligent labor in translating, we may seem to have rendered some phrases imperfectly. For what was originally expressed in Hebrew does not have exactly the same sense when translated into another language. Not only this book, but even the Law itself, the Prophecies, and the rest of the books differ not a little when read in the original. When I came to Egypt in the thirty-eighth year of the reign of Euergetes and stayed for some time, I found opportunity for no little instruction. It seemed highly necessary that I should myself devote some diligence and labor to the translation of this book. During that time I have applied my skill day and night to complete and publish the book for those living abroad who wished to gain learning and are disposed to live according to the law. In Praise of Wisdom"
+            },
+            {
                 "verse_number": 1,
-                "text": "Many great teachings have been given to us through the Law and the Prophets and the others that followed them, and for these we should praise Israel for instruction and wisdom. Now, those who read the scriptures must not only themselves understand them, but must also as lovers of learning be able through the spoken and written word to help the outsiders. So my grandfather Jesus, who had devoted himself especially to the reading of the Law and the Prophets and the other books of our ancestors, and had acquired considerable proficiency in them, was himself also led to write something pertaining to instruction and wisdom, so that by becoming familiar also with his book those who love learning might make even greater progress in living according to the law. You are invited therefore to read it with goodwill and attention, and to be indulgent in cases where, despite our diligent labor in translating, we may seem to have rendered some phrases imperfectly. For what was originally expressed in Hebrew does not have exactly the same sense when translated into another language. Not only this book, but even the Law itself, the Prophecies, and the rest of the books differ not a little when read in the original. When I came to Egypt in the thirty-eighth year of the reign of Euergetes and stayed for some time, I found opportunity for no little instruction. It seemed highly necessary that I should myself devote some diligence and labor to the translation of this book. During that time I have applied my skill day and night to complete and publish the book for those living abroad who wished to gain learning and are disposed to live according to the law. In Praise of Wisdom 1 All wisdom is from the Lord, and with him it remains forever."
+                "text": "All wisdom is from the Lord, and with him it remains forever."
             },
             {
                 "verse_number": 2,
@@ -21861,7 +21869,7 @@
         "6": [
             {
                 "verse_number": 1,
-                "text": "1 and do not become an enemy instead of a friend; for a bad name incurs shame and reproach; so it is with the double-tongued sinner."
+                "text": "and do not become an enemy instead of a friend; for a bad name incurs shame and reproach; so it is with the double-tongued sinner."
             },
             {
                 "verse_number": 2,
@@ -23269,7 +23277,7 @@
             },
             {
                 "verse_number": 30,
-                "text": "Self-Control 30 Do not follow your base desires, but restrain your appetites."
+                "text": "Do not follow your base desires, but restrain your appetites."
             },
             {
                 "verse_number": 31,
@@ -23501,7 +23509,7 @@
             },
             {
                 "verse_number": 27,
-                "text": "Proverbial Sayings 27 The wise person advances himself by his words, and one who is sensible pleases the great."
+                "text": "The wise person advances himself by his words, and one who is sensible pleases the great."
             },
             {
                 "verse_number": 28,
@@ -23763,7 +23771,7 @@
             },
             {
                 "verse_number": 7,
-                "text": "Discipline of the Tongue 7 Listen, my children, to instruction concerning the mouth; the one who observes it will never be caught."
+                "text": "Listen, my children, to instruction concerning the mouth; the one who observes it will never be caught."
             },
             {
                 "verse_number": 8,
@@ -23849,7 +23857,7 @@
         "24": [
             {
                 "verse_number": 1,
-                "text": "The Praise of Wisdom 24 Wisdom praises herself, and tells of her glory in the midst of her people."
+                "text": "Wisdom praises herself, and tells of her glory in the midst of her people."
             },
             {
                 "verse_number": 2,
@@ -24533,7 +24541,7 @@
         "30": [
             {
                 "verse_number": 1,
-                "text": "Concerning Children 30 He who loves his son will whip him often, so that he may rejoice at the way he turns out."
+                "text": "He who loves his son will whip him often, so that he may rejoice at the way he turns out."
             },
             {
                 "verse_number": 2,
@@ -24601,7 +24609,7 @@
             },
             {
                 "verse_number": 18,
-                "text": "Concerning Foods 18 Good things poured out upon a mouth that is closed are like offerings of food placed upon a grave."
+                "text": "Good things poured out upon a mouth that is closed are like offerings of food placed upon a grave."
             },
             {
                 "verse_number": 19,
@@ -26189,7 +26197,7 @@
         "44": [
             {
                 "verse_number": 1,
-                "text": "Hymn in Honor of Our Ancestors 44 Let us now sing the praises of famous men, our ancestors in their generations."
+                "text": "Let us now sing the praises of famous men, our ancestors in their generations."
             },
             {
                 "verse_number": 2,
@@ -26283,7 +26291,7 @@
         "45": [
             {
                 "verse_number": 1,
-                "text": "1 and was beloved by God and people, Moses, whose memory is blessed."
+                "text": "and was beloved by God and people, Moses, whose memory is blessed."
             },
             {
                 "verse_number": 2,
@@ -26859,7 +26867,7 @@
         "51": [
             {
                 "verse_number": 1,
-                "text": "Prayer of Jesus Son of Sirach 51 I give you thanks, O Lord and King, and praise you, O God my Savior. I give thanks to your name,"
+                "text": "I give you thanks, O Lord and King, and praise you, O God my Savior. I give thanks to your name,"
             },
             {
                 "verse_number": 2,
@@ -26976,6 +26984,634 @@
             {
                 "verse_number": 30,
                 "text": "Do your work in good time, and in his own time God will give you your reward."
+            }
+        ]
+    },
+    "lamentations": {
+        "1": [
+            {
+                "verse_number": 1,
+                "text": "How lonely sits the city that once was full of people! How like a widow she has become, she that was great among the nations! She that was a princess among the provinces has become a vassal."
+            },
+            {
+                "verse_number": 2,
+                "text": "She weeps bitterly in the night, with tears on her cheeks; among all her lovers she has no one to comfort her; all her friends have dealt treacherously with her, they have become her enemies."
+            },
+            {
+                "verse_number": 3,
+                "text": "Judah has gone into exile with suffering and hard servitude; she lives now among the nations, and finds no resting place; her pursuers have all overtaken her in the midst of her distress."
+            },
+            {
+                "verse_number": 4,
+                "text": "The roads to Zion mourn, for no one comes to the festivals; all her gates are desolate, her priests groan; her young girls grieve, and her lot is bitter."
+            },
+            {
+                "verse_number": 5,
+                "text": "Her foes have become the masters, her enemies prosper, because the Lord has made her suffer for the multitude of her transgressions; her children have gone away, captives before the foe."
+            },
+            {
+                "verse_number": 6,
+                "text": "From daughter Zion has departed all her majesty. Her princes have become like stags that find no pasture; they fled without strength before the pursuer."
+            },
+            {
+                "verse_number": 7,
+                "text": "Jerusalem remembers, in the days of her affliction and wandering, all the precious things that were hers in days of old. When her people fell into the hand of the foe, and there was no one to help her, the foe looked on mocking over her downfall."
+            },
+            {
+                "verse_number": 8,
+                "text": "Jerusalem sinned grievously, so she has become a mockery; all who honored her despise her, for they have seen her nakedness; she herself groans, and turns her face away."
+            },
+            {
+                "verse_number": 9,
+                "text": "Her uncleanness was in her skirts; she took no thought of her future; her downfall was appalling, with none to comfort her. “O Lord, look at my affliction, for the enemy has triumphed!”"
+            },
+            {
+                "verse_number": 10,
+                "text": "Enemies have stretched out their hands over all her precious things; she has even seen the nations invade her sanctuary, those whom you forbade to enter your congregation."
+            },
+            {
+                "verse_number": 11,
+                "text": "All her people groan as they search for bread; they trade their treasures for food to revive their strength. Look, O Lord, and see how worthless I have become."
+            },
+            {
+                "verse_number": 12,
+                "text": "Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow, which was brought upon me, which the Lord inflicted on the day of his fierce anger."
+            },
+            {
+                "verse_number": 13,
+                "text": "From on high he sent fire; it went deep into my bones; he spread a net for my feet; he turned me back; he has left me stunned, faint all day long."
+            },
+            {
+                "verse_number": 14,
+                "text": "My transgressions were bound into a yoke; by his hand they were fastened together; they weigh on my neck, sapping my strength; the Lord handed me over to those whom I cannot withstand."
+            },
+            {
+                "verse_number": 15,
+                "text": "The Lord has rejected all my warriors in the midst of me; he proclaimed a time against me to crush my young men; the Lord has trodden as in a wine press the virgin daughter Judah."
+            },
+            {
+                "verse_number": 16,
+                "text": "For these things I weep; my eyes flow with tears; for a comforter is far from me, one to revive my courage; my children are desolate, for the enemy has prevailed."
+            },
+            {
+                "verse_number": 17,
+                "text": "Zion stretches out her hands, but there is no one to comfort her; the Lord has commanded against Jacob that his neighbors should become his foes; Jerusalem has become a filthy thing among them."
+            },
+            {
+                "verse_number": 18,
+                "text": "The Lord is in the right, for I have rebelled against his word; but hear, all you peoples, and behold my suffering; my young women and young men have gone into captivity."
+            },
+            {
+                "verse_number": 19,
+                "text": "I called to my lovers but they deceived me; my priests and elders perished in the city while seeking food to revive their strength."
+            },
+            {
+                "verse_number": 20,
+                "text": "See, O Lord, how distressed I am; my stomach churns, my heart is wrung within me, because I have been very rebellious. In the street the sword bereaves; in the house it is like death."
+            },
+            {
+                "verse_number": 21,
+                "text": "They heard how I was groaning, with no one to comfort me. All my enemies heard of my trouble; they are glad that you have done it. Bring on the day you have announced, and let them be as I am."
+            },
+            {
+                "verse_number": 22,
+                "text": "Let all their evil doing come before you; and deal with them as you have dealt with me because of all my transgressions; for my groans are many and my heart is faint."
+            }
+        ],
+        "2": [
+            {
+                "verse_number": 1,
+                "text": "How the Lord in his anger has humiliated daughter Zion! He has thrown down from heaven to earth the splendor of Israel; he has not remembered his footstool in the day of his anger."
+            },
+            {
+                "verse_number": 2,
+                "text": "The Lord has destroyed without mercy all the dwellings of Jacob; in his wrath he has broken down the strongholds of daughter Judah; he has brought down to the ground in dishonor the kingdom and its rulers."
+            },
+            {
+                "verse_number": 3,
+                "text": "He has cut down in fierce anger all the might of Israel; he has withdrawn his right hand from them in the face of the enemy; he has burned like a flaming fire in Jacob, consuming all around."
+            },
+            {
+                "verse_number": 4,
+                "text": "He has bent his bow like an enemy, with his right hand set like a foe; he has killed all in whom we took pride in the tent of daughter Zion; he has poured out his fury like fire."
+            },
+            {
+                "verse_number": 5,
+                "text": "The Lord has become like an enemy; he has destroyed Israel. He has destroyed all its palaces, laid in ruins its strongholds, and multiplied in daughter Judah mourning and lamentation."
+            },
+            {
+                "verse_number": 6,
+                "text": "He has broken down his booth like a garden, he has destroyed his tabernacle; the Lord has abolished in Zion festival and sabbath, and in his fierce indignation has spurned king and priest."
+            },
+            {
+                "verse_number": 7,
+                "text": "The Lord has scorned his altar, disowned his sanctuary; he has delivered into the hand of the enemy the walls of her palaces; a clamor was raised in the house of the Lord as on a day of festival."
+            },
+            {
+                "verse_number": 8,
+                "text": "The Lord determined to lay in ruins the wall of daughter Zion; he stretched the line; he did not withhold his hand from destroying; he caused rampart and wall to lament; they languish together."
+            },
+            {
+                "verse_number": 9,
+                "text": "Her gates have sunk into the ground; he has ruined and broken her bars; her king and princes are among the nations; guidance is no more, and her prophets obtain no vision from the Lord."
+            },
+            {
+                "verse_number": 10,
+                "text": "The elders of daughter Zion sit on the ground in silence; they have thrown dust on their heads and put on sackcloth; the young girls of Jerusalem have bowed their heads to the ground."
+            },
+            {
+                "verse_number": 11,
+                "text": "My eyes are spent with weeping; my stomach churns; my bile is poured out on the ground because of the destruction of my people, because infants and babes faint in the streets of the city."
+            },
+            {
+                "verse_number": 12,
+                "text": "They cry to their mothers, “Where is bread and wine?” as they faint like the wounded in the streets of the city, as their life is poured out on their mothers’ bosom."
+            },
+            {
+                "verse_number": 13,
+                "text": "What can I say for you, to what compare you, O daughter Jerusalem? To what can I liken you, that I may comfort you, O virgin daughter Zion? For vast as the sea is your ruin; who can heal you?"
+            },
+            {
+                "verse_number": 14,
+                "text": "Your prophets have seen for you false and deceptive visions; they have not exposed your iniquity to restore your fortunes, but have seen oracles for you that are false and misleading."
+            },
+            {
+                "verse_number": 15,
+                "text": "All who pass along the way clap their hands at you; they hiss and wag their heads at daughter Jerusalem; “Is this the city that was called the perfection of beauty, the joy of all the earth?”"
+            },
+            {
+                "verse_number": 16,
+                "text": "All your enemies open their mouths against you; they hiss, they gnash their teeth, they cry: “We have devoured her! Ah, this is the day we longed for; at last we have seen it!”"
+            },
+            {
+                "verse_number": 17,
+                "text": "The Lord has done what he purposed, he has carried out his threat; as he ordained long ago, he has demolished without pity; he has made the enemy rejoice over you, and exalted the might of your foes."
+            },
+            {
+                "verse_number": 18,
+                "text": "Cry aloud to the Lord! O wall of daughter Zion! Let tears stream down like a torrent day and night! Give yourself no rest, your eyes no respite!"
+            },
+            {
+                "verse_number": 19,
+                "text": "Arise, cry out in the night, at the beginning of the watches! Pour out your heart like water before the presence of the Lord! Lift your hands to him for the lives of your children, who faint for hunger at the head of every street."
+            },
+            {
+                "verse_number": 20,
+                "text": "Look, O Lord, and consider! To whom have you done this? Should women eat their offspring, the children they have borne? Should priest and prophet be killed in the sanctuary of the Lord?"
+            },
+            {
+                "verse_number": 21,
+                "text": "The young and the old are lying on the ground in the streets; my young women and my young men have fallen by the sword; in the day of your anger you have killed them, slaughtering without mercy."
+            },
+            {
+                "verse_number": 22,
+                "text": "You invited my enemies from all around as if for a day of festival; and on the day of the anger of the Lord no one escaped or survived; those whom I bore and reared my enemy has destroyed."
+            }
+        ],
+        "3": [
+            {
+                "verse_number": 1,
+                "text": "I am one who has seen affliction under the rod of God’s wrath;"
+            },
+            {
+                "verse_number": 2,
+                "text": "he has driven and brought me into darkness without any light;"
+            },
+            {
+                "verse_number": 3,
+                "text": "against me alone he turns his hand, again and again, all day long."
+            },
+            {
+                "verse_number": 4,
+                "text": "He has made my flesh and my skin waste away, and broken my bones;"
+            },
+            {
+                "verse_number": 5,
+                "text": "he has besieged and enveloped me with bitterness and tribulation;"
+            },
+            {
+                "verse_number": 6,
+                "text": "he has made me sit in darkness like the dead of long ago."
+            },
+            {
+                "verse_number": 7,
+                "text": "He has walled me about so that I cannot escape; he has put heavy chains on me;"
+            },
+            {
+                "verse_number": 8,
+                "text": "though I call and cry for help, he shuts out my prayer;"
+            },
+            {
+                "verse_number": 9,
+                "text": "he has blocked my ways with hewn stones, he has made my paths crooked."
+            },
+            {
+                "verse_number": 10,
+                "text": "He is a bear lying in wait for me, a lion in hiding;"
+            },
+            {
+                "verse_number": 11,
+                "text": "he led me off my way and tore me to pieces; he has made me desolate;"
+            },
+            {
+                "verse_number": 12,
+                "text": "he bent his bow and set me as a mark for his arrow."
+            },
+            {
+                "verse_number": 13,
+                "text": "He shot into my vitals the arrows of his quiver;"
+            },
+            {
+                "verse_number": 14,
+                "text": "I have become the laughingstock of all my people, the object of their taunt-songs all day long."
+            },
+            {
+                "verse_number": 15,
+                "text": "He has filled me with bitterness, he has sated me with wormwood."
+            },
+            {
+                "verse_number": 16,
+                "text": "He has made my teeth grind on gravel, and made me cower in ashes;"
+            },
+            {
+                "verse_number": 17,
+                "text": "my soul is bereft of peace; I have forgotten what happiness is;"
+            },
+            {
+                "verse_number": 18,
+                "text": "so I say, “Gone is my glory, and all that I had hoped for from the Lord.”"
+            },
+            {
+                "verse_number": 19,
+                "text": "The thought of my affliction and my homelessness is wormwood and gall!"
+            },
+            {
+                "verse_number": 20,
+                "text": "My soul continually thinks of it and is bowed down within me."
+            },
+            {
+                "verse_number": 21,
+                "text": "But this I call to mind, and therefore I have hope:"
+            },
+            {
+                "verse_number": 22,
+                "text": "The steadfast love of the Lord never ceases, his mercies never come to an end;"
+            },
+            {
+                "verse_number": 23,
+                "text": "they are new every morning; great is your faithfulness."
+            },
+            {
+                "verse_number": 24,
+                "text": "“The Lord is my portion,” says my soul, “therefore I will hope in him.”"
+            },
+            {
+                "verse_number": 25,
+                "text": "The Lord is good to those who wait for him, to the soul that seeks him."
+            },
+            {
+                "verse_number": 26,
+                "text": "It is good that one should wait quietly for the salvation of the Lord."
+            },
+            {
+                "verse_number": 27,
+                "text": "It is good for one to bear the yoke in youth,"
+            },
+            {
+                "verse_number": 28,
+                "text": "to sit alone in silence when the Lord has imposed it,"
+            },
+            {
+                "verse_number": 29,
+                "text": "to put one’s mouth to the dust (there may yet be hope),"
+            },
+            {
+                "verse_number": 30,
+                "text": "to give one’s cheek to the smiter, and be filled with insults."
+            },
+            {
+                "verse_number": 31,
+                "text": "For the Lord will not reject forever."
+            },
+            {
+                "verse_number": 32,
+                "text": "Although he causes grief, he will have compassion according to the abundance of his steadfast love;"
+            },
+            {
+                "verse_number": 33,
+                "text": "for he does not willingly afflict or grieve anyone."
+            },
+            {
+                "verse_number": 34,
+                "text": "When all the prisoners of the land are crushed under foot,"
+            },
+            {
+                "verse_number": 35,
+                "text": "when human rights are perverted in the presence of the Most High,"
+            },
+            {
+                "verse_number": 36,
+                "text": "when one’s case is subverted —does the Lord not see it?"
+            },
+            {
+                "verse_number": 37,
+                "text": "Who can command and have it done, if the Lord has not ordained it?"
+            },
+            {
+                "verse_number": 38,
+                "text": "Is it not from the mouth of the Most High that good and bad come?"
+            },
+            {
+                "verse_number": 39,
+                "text": "Why should any who draw breath complain about the punishment of their sins?"
+            },
+            {
+                "verse_number": 40,
+                "text": "Let us test and examine our ways, and return to the Lord."
+            },
+            {
+                "verse_number": 41,
+                "text": "Let us lift up our hearts as well as our hands to God in heaven."
+            },
+            {
+                "verse_number": 42,
+                "text": "We have transgressed and rebelled, and you have not forgiven."
+            },
+            {
+                "verse_number": 43,
+                "text": "You have wrapped yourself with anger and pursued us, killing without pity;"
+            },
+            {
+                "verse_number": 44,
+                "text": "you have wrapped yourself with a cloud so that no prayer can pass through."
+            },
+            {
+                "verse_number": 45,
+                "text": "You have made us filth and rubbish among the peoples."
+            },
+            {
+                "verse_number": 46,
+                "text": "All our enemies have opened their mouths against us;"
+            },
+            {
+                "verse_number": 47,
+                "text": "panic and pitfall have come upon us, devastation and destruction."
+            },
+            {
+                "verse_number": 48,
+                "text": "My eyes flow with rivers of tears because of the destruction of my people."
+            },
+            {
+                "verse_number": 49,
+                "text": "My eyes will flow without ceasing, without respite,"
+            },
+            {
+                "verse_number": 50,
+                "text": "until the Lord from heaven looks down and sees."
+            },
+            {
+                "verse_number": 51,
+                "text": "My eyes cause me grief at the fate of all the young women in my city."
+            },
+            {
+                "verse_number": 52,
+                "text": "Those who were my enemies without cause have hunted me like a bird;"
+            },
+            {
+                "verse_number": 53,
+                "text": "they flung me alive into a pit and hurled stones on me;"
+            },
+            {
+                "verse_number": 54,
+                "text": "water closed over my head; I said, “I am lost.”"
+            },
+            {
+                "verse_number": 55,
+                "text": "I called on your name, O Lord, from the depths of the pit;"
+            },
+            {
+                "verse_number": 56,
+                "text": "you heard my plea, “Do not close your ear to my cry for help, but give me relief!”"
+            },
+            {
+                "verse_number": 57,
+                "text": "You came near when I called on you; you said, “Do not fear!”"
+            },
+            {
+                "verse_number": 58,
+                "text": "You have taken up my cause, O Lord, you have redeemed my life."
+            },
+            {
+                "verse_number": 59,
+                "text": "You have seen the wrong done to me, O Lord; judge my cause."
+            },
+            {
+                "verse_number": 60,
+                "text": "You have seen all their malice, all their plots against me."
+            },
+            {
+                "verse_number": 61,
+                "text": "You have heard their taunts, O Lord, all their plots against me."
+            },
+            {
+                "verse_number": 62,
+                "text": "The whispers and murmurs of my assailants are against me all day long."
+            },
+            {
+                "verse_number": 63,
+                "text": "Whether they sit or rise—see, I am the object of their taunt-songs."
+            },
+            {
+                "verse_number": 64,
+                "text": "Pay them back for their deeds, O Lord, according to the work of their hands!"
+            },
+            {
+                "verse_number": 65,
+                "text": "Give them anguish of heart; your curse be on them!"
+            },
+            {
+                "verse_number": 66,
+                "text": "Pursue them in anger and destroy them from under the Lord’s heavens."
+            }
+        ],
+        "4": [
+            {
+                "verse_number": 1,
+                "text": "How the gold has grown dim, how the pure gold is changed! The sacred stones lie scattered at the head of every street."
+            },
+            {
+                "verse_number": 2,
+                "text": "The precious children of Zion, worth their weight in fine gold— how they are reckoned as earthen pots, the work of a potter’s hands!"
+            },
+            {
+                "verse_number": 3,
+                "text": "Even the jackals offer the breast and nurse their young, but my people has become cruel, like the ostriches in the wilderness."
+            },
+            {
+                "verse_number": 4,
+                "text": "The tongue of the infant sticks to the roof of its mouth for thirst; the children beg for food, but no one gives them anything."
+            },
+            {
+                "verse_number": 5,
+                "text": "Those who feasted on delicacies perish in the streets; those who were brought up in purple cling to ash heaps."
+            },
+            {
+                "verse_number": 6,
+                "text": "For the chastisement of my people has been greater than the punishment of Sodom, which was overthrown in a moment, though no hand was laid on it."
+            },
+            {
+                "verse_number": 7,
+                "text": "Her princes were purer than snow, whiter than milk; their bodies were more ruddy than coral, their hair like sapphire."
+            },
+            {
+                "verse_number": 8,
+                "text": "Now their visage is blacker than soot; they are not recognized in the streets. Their skin has shriveled on their bones; it has become as dry as wood."
+            },
+            {
+                "verse_number": 9,
+                "text": "Happier were those pierced by the sword than those pierced by hunger, whose life drains away, deprived of the produce of the field."
+            },
+            {
+                "verse_number": 10,
+                "text": "The hands of compassionate women have boiled their own children; they became their food in the destruction of my people."
+            },
+            {
+                "verse_number": 11,
+                "text": "The Lord gave full vent to his wrath; he poured out his hot anger, and kindled a fire in Zion that consumed its foundations."
+            },
+            {
+                "verse_number": 12,
+                "text": "The kings of the earth did not believe, nor did any of the inhabitants of the world, that foe or enemy could enter the gates of Jerusalem."
+            },
+            {
+                "verse_number": 13,
+                "text": "It was for the sins of her prophets and the iniquities of her priests, who shed the blood of the righteous in the midst of her."
+            },
+            {
+                "verse_number": 14,
+                "text": "Blindly they wandered through the streets, so defiled with blood that no one was able to touch their garments."
+            },
+            {
+                "verse_number": 15,
+                "text": "“Away! Unclean!” people shouted at them; “Away! Away! Do not touch!” So they became fugitives and wanderers; it was said among the nations, “They shall stay here no longer.”"
+            },
+            {
+                "verse_number": 16,
+                "text": "The Lord himself has scattered them, he will regard them no more; no honor was shown to the priests, no favor to the elders."
+            },
+            {
+                "verse_number": 17,
+                "text": "Our eyes failed, ever watching vainly for help; we were watching eagerly for a nation that could not save."
+            },
+            {
+                "verse_number": 18,
+                "text": "They dogged our steps so that we could not walk in our streets; our end drew near; our days were numbered; for our end had come."
+            },
+            {
+                "verse_number": 19,
+                "text": "Our pursuers were swifter than the eagles in the heavens; they chased us on the mountains, they lay in wait for us in the wilderness."
+            },
+            {
+                "verse_number": 20,
+                "text": "The Lord’s anointed, the breath of our life, was taken in their pits— the one of whom we said, “Under his shadow we shall live among the nations.”"
+            },
+            {
+                "verse_number": 21,
+                "text": "Rejoice and be glad, O daughter Edom, you that live in the land of Uz; but to you also the cup shall pass; you shall become drunk and strip yourself bare."
+            },
+            {
+                "verse_number": 22,
+                "text": "The punishment of your iniquity, O daughter Zion, is accomplished, he will keep you in exile no longer; but your iniquity, O daughter Edom, he will punish, he will uncover your sins."
+            }
+        ],
+        "5": [
+            {
+                "verse_number": 1,
+                "text": "Remember, O Lord, what has befallen us; look, and see our disgrace!"
+            },
+            {
+                "verse_number": 2,
+                "text": "Our inheritance has been turned over to strangers, our homes to aliens."
+            },
+            {
+                "verse_number": 3,
+                "text": "We have become orphans, fatherless; our mothers are like widows."
+            },
+            {
+                "verse_number": 4,
+                "text": "We must pay for the water we drink; the wood we get must be bought."
+            },
+            {
+                "verse_number": 5,
+                "text": "With a yoke on our necks we are hard driven; we are weary, we are given no rest."
+            },
+            {
+                "verse_number": 6,
+                "text": "We have made a pact with Egypt and Assyria, to get enough bread."
+            },
+            {
+                "verse_number": 7,
+                "text": "Our ancestors sinned; they are no more, and we bear their iniquities."
+            },
+            {
+                "verse_number": 8,
+                "text": "Slaves rule over us; there is no one to deliver us from their hand."
+            },
+            {
+                "verse_number": 9,
+                "text": "We get our bread at the peril of our lives, because of the sword in the wilderness."
+            },
+            {
+                "verse_number": 10,
+                "text": "Our skin is black as an oven from the scorching heat of famine."
+            },
+            {
+                "verse_number": 11,
+                "text": "Women are raped in Zion, virgins in the towns of Judah."
+            },
+            {
+                "verse_number": 12,
+                "text": "Princes are hung up by their hands; no respect is shown to the elders."
+            },
+            {
+                "verse_number": 13,
+                "text": "Young men are compelled to grind, and boys stagger under loads of wood."
+            },
+            {
+                "verse_number": 14,
+                "text": "The old men have left the city gate, the young men their music."
+            },
+            {
+                "verse_number": 15,
+                "text": "The joy of our hearts has ceased; our dancing has been turned to mourning."
+            },
+            {
+                "verse_number": 16,
+                "text": "The crown has fallen from our head; woe to us, for we have sinned!"
+            },
+            {
+                "verse_number": 17,
+                "text": "Because of this our hearts are sick, because of these things our eyes have grown dim:"
+            },
+            {
+                "verse_number": 18,
+                "text": "because of Mount Zion, which lies desolate; jackals prowl over it."
+            },
+            {
+                "verse_number": 19,
+                "text": "But you, O Lord, reign forever; your throne endures to all generations."
+            },
+            {
+                "verse_number": 20,
+                "text": "Why have you forgotten us completely? Why have you forsaken us these many days?"
+            },
+            {
+                "verse_number": 21,
+                "text": "Restore us to yourself, O Lord, that we may be restored; renew our days as of old—"
+            },
+            {
+                "verse_number": 22,
+                "text": "unless you have utterly rejected us, and are angry with us beyond measure."
             }
         ]
     }

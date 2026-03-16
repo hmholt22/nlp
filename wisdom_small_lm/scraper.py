@@ -14,6 +14,7 @@ BOOKS = {
     "song_of_songs": {"search": "Song of Songs",  "abbrev": "Song", "chapters": 8},
     "wisdom":        {"search": "Wisdom",         "abbrev": "Wis",  "chapters": 19},
     "sirach":        {"search": "Sirach",         "abbrev": "Sir",  "chapters": 51},
+    "lamentations":  {"search": "Lamentations",   "abbrev": "Lam",  "chapters": 5},
 }
 
 
@@ -32,33 +33,55 @@ def get_verses(book_key, chapter):
 
     verse_dict = {}
     for span in spans:
-        # Skip standalone heading spans — they have an id but no sup child
-        # e.g. <span id="..." class="text Song-4-1">The Bride's Beauty Extolled</span>
-        # Actual verse-start spans always contain either a versenum sup (v2+)
-        # or a chapternum span (v1), never neither
-        if span.get('id') and not span.find('sup') and not span.find(class_='chapternum'):
-            continue
+        versenum_sup = span.find("sup", class_="versenum")
+        chapternum_span = span.find(class_="chapternum")
 
-        text = span.get_text().strip()
-        if not text or text.isdigit() or text == "Selah":
-            continue
+        if book_key != "psalms":
+            # Skip standalone heading spans — they have an id but no sup and no chapternum.
+            # e.g. <span id="..." class="text Song-4-1">The Bride's Beauty Extolled</span>
+            if span.get('id') and not versenum_sup and not chapternum_span:
+                continue
 
         verse_class = next((c for c in span["class"] if re.match(rf"^{abbrev}-\d+-\d+$", c)), None)
         if not verse_class:
             continue
-
         verse_num = int(verse_class.split("-")[-1])
+
+        if versenum_sup:
+            # Get text after the versenum sup only — this strips any section heading
+            # that precedes the sup within the same span (e.g. "In Praise of Wisdom 1 All wisdom...")
+            parts = []
+            for node in versenum_sup.next_siblings:
+                parts.append(node.get_text() if hasattr(node, 'get_text') else str(node))
+            text = ''.join(parts).strip()
+        else:
+            text = span.get_text().strip()
+
+        if not text or text.isdigit() or text == "Selah":
+            continue
+
         text = text.replace('\xa0', ' ').strip()
         text = re.sub(r'\[[^\]]*\]', '', text)
         text = re.sub(r' +', ' ', text).strip()
 
-        if verse_num not in verse_dict:
-            # New verse start — covers both explicit versenum sup and verse 1
-            # which uses a chapter number display instead of a versenum sup
-            text = re.sub(r'^\d+\s*', '', text)  # strip leading chapter/verse number
-            verse_dict[verse_num] = text
+        if book_key == "psalms":
+            # Psalms verse 1 is often a superscription heading embedded in the chapternum
+            # span — only start a new verse entry on an explicit versenum sup (verse 2+).
+            # Mirrors the logic from the original psalm_scraper.py.
+            if versenum_sup:
+                verse_dict[verse_num] = text
+            elif verse_num in verse_dict:
+                verse_dict[verse_num] += " " + text
+            # else: no versenum and verse not yet started → superscription, skip it
         else:
-            verse_dict[verse_num] += " " + text
+            if verse_num not in verse_dict:
+                if not versenum_sup:
+                    # Verse 1 via chapternum — strip up to two leading digit groups.
+                    # Some books produce "ch# v# text" (e.g. Sirach 6 → "6 1 and do not...").
+                    text = re.sub(r'^(\d+\s+){1,2}', '', text)
+                verse_dict[verse_num] = text
+            else:
+                    verse_dict[verse_num] += " " + text
 
     return [{"verse_number": num, "text": text} for num, text in sorted(verse_dict.items())]
 
@@ -72,10 +95,39 @@ def scrape_book(book_key, verbose=False, delay=0.5):
         if verbose:
             print(f"  Scraping {book['search']} {chapter}/{book['chapters']}...")
         verses = get_verses(book_key, chapter)
-        book_data[chapter] = [
-            v for v in verses
-            if len(v["text"]) > 20 and not v["text"].startswith("(")
-        ]
+        if book_key == "psalms":
+            book_data[chapter] = [
+                v for v in verses
+                if not any(kw in v["text"].upper() for kw in ["BOOK", "PSALM", "–", "PSALMS"])
+                and len(v["text"]) > 20
+                and not v["text"].startswith("(")
+            ]
+        else:
+            book_data[chapter] = [
+                v for v in verses
+                if len(v["text"]) > 20 and not v["text"].startswith("(")
+            ]
+
+        # Sirach chapter 1: the prologue paragraphs have no verse markers in the HTML,
+        # so they get merged into verse 1. Split them out here:
+        # the chapternum "1" appears as a standalone " 1 " preceded by lowercase text,
+        # marking where the prologue ends and the actual verse begins.
+        if book_key == "sirach" and chapter == 1:
+            new_verses = []
+            for v in book_data[chapter]:
+                if v["verse_number"] == 1:
+                    match = re.search(r'(?<=[a-z.,;]) 1 (?=[A-Z])', v["text"])
+                    if match:
+                        prologue = v["text"][:match.start()].strip()
+                        verse1 = v["text"][match.end():].strip()
+                        if len(prologue) > 20:
+                            new_verses.append({"verse_number": 0, "text": prologue})
+                        new_verses.append({"verse_number": 1, "text": verse1})
+                    else:
+                        new_verses.append(v)
+                else:
+                    new_verses.append(v)
+            book_data[chapter] = new_verses
         time.sleep(delay)
 
     return book_data
